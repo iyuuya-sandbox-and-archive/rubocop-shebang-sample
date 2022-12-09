@@ -1,0 +1,4 @@
+Gemfile
+fuga
+hoge.rb
+scripts/shebang
